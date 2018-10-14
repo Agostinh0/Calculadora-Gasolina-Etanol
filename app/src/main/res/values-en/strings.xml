@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gas - Ethanol Calculator</string>
+    <string name="valorEtanol">Ethanol value</string>
+    <string name="valorGas">Gas value</string>
+    <string name="button">Calculate</string>
+    <string name="textFieldGas" translatable="false">tfGas</string>
+    <string name="textFieldEthanol" translatable="false">tfEtanol</string>
+    <string name="resultGas"> The better option is gas.</string>
+    <string name="resultEthanol"> The better option is ethanol.</string>
+    <string name="warning">Fill all fields</string>>
+    <string name="error">Something went wrong</string>
+</resources>

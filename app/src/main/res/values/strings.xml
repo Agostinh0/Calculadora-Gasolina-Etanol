@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora Gasolina - Etanol</string>
+    <string name="valorEtanol">Valor do etanol</string>
+    <string name="valorGas">Valor da gasolina</string>
+    <string name="button">Calcular</string>
+    <string name="textFieldGas" translatable="false">tfGas</string>
+    <string name="textFieldEthanol" translatable="false">tfEtanol</string>
+    <string name="resultGas"> A melhor opção é gasolina.</string>
+    <string name="resultEthanol"> A melhor opção é etanol.</string>
+    <string name="warning">Preencha todos os campos</string>string>
+    <string name="error">Algo deu errado</string>
+</resources>
